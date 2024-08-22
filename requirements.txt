@@ -1,0 +1,5 @@
+requests
+
+# 测试与维护
+coverage >= 6.3.2
+twine
